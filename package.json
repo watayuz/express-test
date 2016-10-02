@@ -1,11 +1,15 @@
 {
   "name": "crawler",
   "version": "1.0.0",
-  "description": "",
+  "description": "express test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^2.3.0",
+    "superagent-jsonp": "^0.1.1"
+  }
 }
