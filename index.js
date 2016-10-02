@@ -3,7 +3,7 @@
 var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
-var sqlite3 = require('sqlite3');
+// var sqlite3 = require('sqlite3');
 var path = require('path');
 //ログ出力するpackage
 var morgan = require('morgan');
